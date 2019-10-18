@@ -4,5 +4,6 @@
 
 소프트웨어학부 기자재 관리 시스템
 
+*More Information ↓*
 
 https://greenapple16.tistory.com/11?category=811353
